@@ -1,7 +1,13 @@
-# Chrome_DevTools
-Homework for QA Engineer course by V. Ksendzov
+# Chrome Devtools - Инструменты разработчика
 
- 1. Открыть Chrome DevTools
+### Click on the image below ⬇ to check out my Devtools homework for QA Engineer course by V. Ksendzov. 
+Dont forget to turn on subtitles :)
+
+***
+[![Devtools](https://github.com/del0nius/Chrome_DevTools/blob/main/chrome_devtools.JPG)](https://youtu.be/buFZMdU0tRc "Devtools") 
+***
+
+1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
  4. Включить режим мобильного деввайса (Device Mode)
